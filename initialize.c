@@ -1,0 +1,1 @@
+// the idea here is to have this file to register routes, kickstart the server and handle the requests
